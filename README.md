@@ -1,1 +1,39 @@
-<!-- Replace every YOUR_USERNAME below with your GitHub username --> <p align="center"> <img src="./assets/banner.svg" alt="Ryan Arqueza — Software Engineer" width="100%"/> </p> <p align="center"> <a href="mailto:arquezaryan@gmail.com"><img src="https://img.shields.io/badge/Email-arquezaryan%40gmail.com-ff4d6d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified"/> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=c77dff&label=PROFILE+VIEWS" alt="Profile views"/> </p> <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=4CC9F0&center=true&vCenter=true&width=700&lines=6%2B+years+shipping+production+web+apps;Angular+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+NestJS;E-commerce+%E2%80%A2+Healthtech+%E2%80%A2+Fintech+%E2%80%A2+GovTech;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG"/></a> </p>
+<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 data-importer="text" align="left">About me</h2>
+
+###
+
+<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 data-importer="text" align="left">I code with</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
